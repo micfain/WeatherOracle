@@ -18,4 +18,6 @@ public class WeatherOracleActivity extends Activity {
         
         MainControl.start();
     }
+    
+    //Michael Fain testing git
 }
